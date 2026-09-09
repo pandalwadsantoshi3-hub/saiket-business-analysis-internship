@@ -2,11 +2,11 @@
 
 ## Saiket Systems – Business Analysis Internship
 
-### 📌 Project Overview
+### Project Overview
 
 This project focuses on analyzing customer churn in a telecommunications company. The objective is to understand customer behavior, identify customer segments based on tenure, analyze monthly charges, and generate useful insights that can support customer retention strategies.
 
-### 🎯 Objectives
+###  Objectives
 
 * Understand and explore the customer churn dataset.
 * Clean and prepare the dataset for analysis.
@@ -16,7 +16,7 @@ This project focuses on analyzing customer churn in a telecommunications company
 * Compare average monthly charges across customer segments.
 * Create meaningful visualizations and interactive charts.
 
-### 🛠️ Tools & Technologies
+###  Tools & Technologies
 
 * Python
 * Pandas
@@ -25,7 +25,7 @@ This project focuses on analyzing customer churn in a telecommunications company
 * Plotly
 * Jupyter Notebook
 
-### 📂 Tasks Completed
+### Tasks Completed
 
 #### Task 1 – Understand the Dataset
 
@@ -63,7 +63,7 @@ This project focuses on analyzing customer churn in a telecommunications company
 * Created an annotated bar chart.
 * Created an interactive Plotly visualization.
 
-### 📊 Key Analysis Areas
+###  Key Analysis Areas
 
 The project analyzes:
 
@@ -74,7 +74,7 @@ The project analyzes:
 * Customer segmentation
 * Customer distribution
 
-### 📁 Project Files
+###  Project Files
 
 ```text
 saiket-business-analysis-internship/
@@ -87,11 +87,11 @@ saiket-business-analysis-internship/
 └── README.md
 ```
 
-### 🔍 Conclusion
+###  Conclusion
 
 The analysis provides useful insights into customer tenure, monthly charges, and churn behavior. Customer segmentation helps identify differences between short-term, medium-term, and long-term customers. These insights can help businesses develop effective customer retention strategies.
 
-### 👩‍💻 Internship
+### Internship
 
 **Organization:** Saiket Systems
 **Domain:** Business Analysis
